@@ -1,1 +1,1 @@
-# data-science_bootcamp
+# Data Science Bootcamp Projects
